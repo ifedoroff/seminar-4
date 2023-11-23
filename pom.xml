@@ -67,11 +67,11 @@
   </build>
 
   <repositories>
-    <repository>
-      <id>tinkoff-maven-releases-hosted</id>
-      <name>tinkoff-maven-releases-hosted</name>
-      <url>https://artifactory.tcsbank.ru/artifactory/maven-all</url>
-    </repository>
+<!--    <repository>-->
+<!--      <id>tinkoff-maven-releases-hosted</id>-->
+<!--      <name>tinkoff-maven-releases-hosted</name>-->
+<!--      <url>https://artifactory.tcsbank.ru/artifactory/maven-all</url>-->
+<!--    </repository>-->
   </repositories>
 
 </project>
